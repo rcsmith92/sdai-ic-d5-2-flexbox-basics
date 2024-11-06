@@ -1,3 +1,14 @@
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
 /* Base styles for mobile */
 body {
     font-family: Arial, sans-serif;
